@@ -4,7 +4,7 @@ Category: General
 Tags: first-post, blog
 Slug: welcome-post
 Authors: Anthony Stock
-Summary: Welcome to 'StockWorks' documenting mycoding, machine learning, and AI projects and experiences.
+Summary: Welcome to 'StockWorks' documenting my coding, machine learning, and AI projects and experiences.
 
 Welcome to my new tech blog! This space will be dedicated to sharing my journey and experiences in:
 
