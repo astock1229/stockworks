@@ -19,7 +19,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),)
 
 # Theme Settings
-THEME = 'themes/Flex'
+THEME = 'themes/Smoothie'
 SITETITLE = 'StockWorks'
 SITESUBTITLE = 'Exploring Code, ML, and AI'
 SITEDESCRIPTION = 'A technical blog about software development, machine learning, and artificial intelligence'
@@ -33,7 +33,7 @@ MAIN_MENU = True
 MENUITEMS = (
     ('Archives', '/archives.html'),
     ('Categories', '/categories.html'),
-    ('Tags', '/tags.html'),
+    ('Tags', '/tags.html'),  # Ensure this line has a comma at the end
 )
 
 # Social Links
